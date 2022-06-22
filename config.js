@@ -14,7 +14,7 @@ global.gopay = '081366794722'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'VINN BOT'
-global.gc = 'https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m'
+global.gc = 'https://chat.whatsapp.com/HJftx2syj621jLdJN9NW2e'
 global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
