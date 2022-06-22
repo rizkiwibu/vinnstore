@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6285878836361'] 
+global.owner = ['6283185091475'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'iky'
-global.numberowner = '6285878836361'
+global.nameowner = 'Vinnstore'
+global.numberowner = '6283185091475'
 global.instagram = 'https://instagram.com/ikykunnnn'
 global.github = 'https://github.com/rizkiwibu'
 global.dana = '6283817161861'
